@@ -1,25 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcafe1e5.css",
-    "main.js": "/static/js/main.d8d9b493.js",
+    "main.css": "/static/css/main.20ce3199.css",
+    "main.js": "/static/js/main.e8663c10.js",
+    "static/js/771.f3db69d5.chunk.js": "/static/js/771.f3db69d5.chunk.js",
+    "static/js/371.93f1471d.chunk.js": "/static/js/371.93f1471d.chunk.js",
+    "static/js/310.6a173559.chunk.js": "/static/js/310.6a173559.chunk.js",
+    "static/js/867.a482ba1a.chunk.js": "/static/js/867.a482ba1a.chunk.js",
+    "static/js/802.5c19adb1.chunk.js": "/static/js/802.5c19adb1.chunk.js",
+    "static/js/251.77ed45f2.chunk.js": "/static/js/251.77ed45f2.chunk.js",
+    "static/css/714.43727b5b.chunk.css": "/static/css/714.43727b5b.chunk.css",
+    "static/js/714.faa4f61e.chunk.js": "/static/js/714.faa4f61e.chunk.js",
+    "static/js/97.c1b61450.chunk.js": "/static/js/97.c1b61450.chunk.js",
+    "static/js/352.bcaa2fcd.chunk.js": "/static/js/352.bcaa2fcd.chunk.js",
+    "static/js/592.660e0c22.chunk.js": "/static/js/592.660e0c22.chunk.js",
+    "static/js/933.c30caf6c.chunk.js": "/static/js/933.c30caf6c.chunk.js",
     "static/media/background.jpg": "/static/media/background.a63ffa6e44696a61ebc2.jpg",
     "static/media/mockup_mobile.png": "/static/media/mockup_mobile.d6baf0bf572d6891d9f6.png",
+    "static/media/TSB.png": "/static/media/TSB.a190ba337242b96c6ee9.png",
     "static/media/STB.png": "/static/media/STB.0a0f698a924e6221070a.png",
-    "static/media/circle_logo_final.png": "/static/media/circle_logo_final.efd3e867862e5365ad8e.png",
-    "static/media/UIB.png": "/static/media/UIB.f5b2a34c240c93468285.png",
+    "static/media/QNB.png": "/static/media/QNB.59591081011d6a287a91.png",
     "static/media/BTK.png": "/static/media/BTK.c6e59af79c369ec597d7.png",
+    "static/media/BT.png": "/static/media/BT.26b9f956e0c455ef35d5.png",
     "static/media/AttijaryBank.png": "/static/media/AttijaryBank.447f97b92db31453c38d.png",
-    "static/media/QNB.png": "/static/media/QNB.191027d58114545f669c.png",
     "static/media/AlBaraka.png": "/static/media/AlBaraka.9a01c9e93ac6aea5cf12.png",
-    "static/media/BH.png": "/static/media/BH.329fc938affb8014531f.png",
-    "static/media/TSB.png": "/static/media/TSB.adbcd04a49c9b7cab52f.png",
     "static/media/BIAT.png": "/static/media/BIAT.00eae44ff0d201e0dd9d.png",
     "static/media/BNA.png": "/static/media/BNA.0b300fcb82aa8412376d.png",
+    "static/media/BH.png": "/static/media/BH.1b39ce61aa040faa06a6.png",
+    "static/media/ATB.png": "/static/media/ATB.276e496ff442f873bc75.png",
     "static/media/SAR.png": "/static/media/SAR.95a16a03c131e6d9cc5a.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.fcafe1e5.css",
-    "static/js/main.d8d9b493.js"
+    "static/css/main.20ce3199.css",
+    "static/js/main.e8663c10.js"
   ]
 }
